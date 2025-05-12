@@ -1,1 +1,1 @@
-Olá esse projeto ensina a usar o Git
+Olá esse projeto ensina a usar o Git. Agora vamos commitar de novo.
